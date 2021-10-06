@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="pinGenerator">
+    <output-path>$PROJECT_DIR$/out/artifacts/pinGenerator</output-path>
+    <root id="root">
+      <element id="library" level="module" name="JUnit4" module-name="pinGenerator" />
+      <element id="archive" name="pinGenerator.jar">
+        <element id="module-output" name="pinGenerator" />
+      </element>
+    </root>
+  </artifact>
+</component>

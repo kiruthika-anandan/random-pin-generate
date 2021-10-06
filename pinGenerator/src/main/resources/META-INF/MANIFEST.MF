@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.westpac.randomPINgenerator.RandomPINGenerator
+Class-Path: JUnit4.jar
+
