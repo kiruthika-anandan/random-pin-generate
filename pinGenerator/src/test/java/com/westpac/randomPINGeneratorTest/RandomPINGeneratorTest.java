@@ -1,4 +1,4 @@
-package com.westpac.test.randomPINGenerator;
+package com.westpac.randomPINGeneratorTest;
 
 import com.westpac.randomPINgenerator.RandomPINGenerator;
 import org.junit.Test;

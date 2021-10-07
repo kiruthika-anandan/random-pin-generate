@@ -1,4 +1,5 @@
-pin-generator-ws.iml
+*.iml
 pinGenerator/.idea/*
 pinGenerator/target/*
+pinGenerator/*.iml
 

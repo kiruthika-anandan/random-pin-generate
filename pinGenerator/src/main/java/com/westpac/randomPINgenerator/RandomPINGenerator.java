@@ -6,15 +6,6 @@ import java.util.HashSet;
 
 public class RandomPINGenerator {
 
-    public static void main(String args[]){
-        HashSet<String> pinCollection =  new HashSet<String>();
-        try {
-            pinCollection = generateRandomPINs();
-        } catch (NoSuchAlgorithmException e) {
-            e.printStackTrace();
-        }
-    }
-
     public static HashSet<String> generateRandomPINs() throws NoSuchAlgorithmException {
         // Use SecureRandom to generate a strong random number
         HashSet<String> randomPINCollection = null;
