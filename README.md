@@ -4,6 +4,10 @@ The Main Class RandomPINGenerator.java uses SecureRandom class to generate a str
 Use string format to make random number length as 4.
 Using a HashSet to store the list of secure random PINs to make sure they are unique and has no duplicates.
 
+Assumptions:
+1. The random PINs can start with 0
+2. The random PINs are of String datatype
+
 There are 2 unit tests that check the functional aspects of the program
 (i)Every random PIN has 4 digits
 (ii)The HashSet collection has 1000 PINs. Also Check multiple runs of the function.
